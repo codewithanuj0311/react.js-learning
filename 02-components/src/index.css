@@ -1,0 +1,12 @@
+.card {
+  background-color: cadetblue;
+  color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 20px;
+}
+
+.nav {
+  background-color: antiquewhite;
+  padding: 20px;
+}
