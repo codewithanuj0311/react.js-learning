@@ -1,0 +1,101 @@
+.card {
+    background-color: #fff;
+    border-radius: 32px;
+    width: 350px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+  }
+  
+  .top {
+    display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  img {
+    border: 1px solid #dadada;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+  }
+  
+  .btn-save {
+    border: none;
+    font-size: 14px;
+    padding: 4px 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #fff;
+    color: #8b8b8b;
+    border: 1px solid #dadada;
+    border-radius: 6px;
+  }
+  
+  
+  span.company {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  span.time {
+    font-size: 14px;
+    margin-left: 4px;
+    font-weight: 500;
+    color: #8b8b8b;
+  }
+  
+  .position {
+    margin: 6px 0;
+    font-size: 28px;
+  }
+  
+  .role,
+  .level {
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #dadada;
+    padding: 6px 12px;
+    border-radius: 6px;
+    margin-top: 12px;
+  }
+  
+  .level {
+    margin-left: 12px;
+  
+  }
+  
+  hr {
+    margin-top: 80px;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .btn-apply {
+    padding: 8px 14px;
+    background-color: #000000;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+  }
+  
+  .price{
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .location {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #8b8b8b;
+  }
+  
