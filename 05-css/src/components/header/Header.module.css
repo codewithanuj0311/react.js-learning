@@ -1,0 +1,9 @@
+.btn {
+    background-color: red;
+}
+div {
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

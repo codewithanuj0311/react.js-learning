@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  background-color: lightseagreen;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+}
+
+.dark {
+  background-color: #232323;
+}
